@@ -1,5 +1,3 @@
-README
-
 About:
  * This project is a log_stream with configuration capabilities.
  * It allows for specifying the log type and configuring it accordingly.
